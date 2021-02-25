@@ -1,5 +1,5 @@
 
-<h1 align= "center"> Budget Tracker <h1>
+ <img src ="./public/tracker-2.png">
 
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -13,7 +13,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-orange.svg)
 ![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg)
 
-## :memo: Description:
+## :euro: Description:
 
 Add functionality to our existing ``Budget Tracker`` application to allow for offline access and functionality.
 The user will be able to ``add expenses`` and  ``deposits`` to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
@@ -29,6 +29,9 @@ Offline entries should be added to tracker.
 
 ### :camera: Visuals:
 
+![image](./public/picture.png) <br>
+![Giphy](./public/gif-min.gif)
+
 ### :computer: Installation:
 
 To deploy an application with a MongoDB database to `Heroku`, you'll need to set up a `MongoDB Atlas` account and connect a database from there to your application. Be sure to use the following guides for support:
@@ -41,6 +44,7 @@ To deploy an application with a MongoDB database to `Heroku`, you'll need to set
 
 `node server.js`
 
+
 ### :wave: Contributing:
 
 Pull requests are welcome. For major changes,<br>
@@ -49,7 +53,7 @@ Please make sure to update tests as appropriate.
 
 ### :octocat: Profile:
 
-[GitHub](https://github.com/adpir/Workout_Tracker)<br>
+[GitHub](https://github.com/adpir/Progressive-Budget)<br>
 [Heroku](https://stark-waters-65434.herokuapp.com/)
 
 ### :copyright: License

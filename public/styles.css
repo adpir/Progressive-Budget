@@ -1,7 +1,7 @@
 body {
     font-size: 120%;
     font-family: Arial;
-    background-image: url("./money.jpg");
+    background-image: url("./money2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -9,11 +9,16 @@ body {
   button, input {
     font-size: 100%;
     font-family: Arial;
+
   }
-  
+  button {
+    background-color:rgba(226, 165, 23, 0.895)
+
+  }
   table {
     width: 100%;
-    
+background-color: rgba(42, 117, 178, 0.395); 
+
    
   }
   
@@ -48,8 +53,7 @@ body {
     font-size: 150%;
     text-decoration: underline;
     font-family: 'Prata', serif;
-    font-family: 'Staatliches', cursive;
-            color: #082e62;
+            color:rgba(226, 165, 23, 0.895)
   }
   
   .form {
@@ -68,6 +72,6 @@ body {
     
   }
   canvas {
-  background-color: rgba(174, 181, 209, 0.902);
-  
+  opacity: 0.9;
+  background-color:rgba(195, 152, 51, 0.909);
   }
