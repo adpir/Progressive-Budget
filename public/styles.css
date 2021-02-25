@@ -1,7 +1,9 @@
 body {
     font-size: 120%;
     font-family: Arial;
-    background-color: crimson;
+    background-image: url("./money.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   button, input {
@@ -11,34 +13,43 @@ body {
   
   table {
     width: 100%;
+    
+   
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 5px solid #001738; 
     text-align: left;
     padding: 8px;
-    color: blue;
+
+  
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: rgba(42, 117, 178, 0.395);
+  }
+  th {
+    background-color: rgba(42, 117, 178, 0.395);
+
   }
   
   .error {
-    color: red;
+    color: grey;
   }
   
   .wrapper {
     margin: 0 auto;
     max-width: 825px;
     text-align: center;
+   
   }
   
   .total {
     font-size: 150%;
     text-decoration: underline;
-    font-family: Arial, Helvetica, sans-serif;
-    color: crimson;
+    font-family: 'Prata', serif;
+    font-family: 'Staatliches', cursive;
+            color: #082e62;
   }
   
   .form {
@@ -52,5 +63,11 @@ body {
     overflow: auto;
     width: 90%;
     margin: 0 auto;
+    color: rgb(20, 33, 61);
+    font-weight: bold;
+    
   }
+  canvas {
+  background-color: rgba(174, 181, 209, 0.902);
   
+  }
