@@ -16,14 +16,22 @@
 
 ### :bar_chart: Table of Contents 
 
-* [Description](#Description)
-* [Visuals](#Visuals)
-* [Installation](#Installetions)
+- [Description :euro:](#Description-)
+
+- [Visuals](#Visuals)
+
+* [Installation](#Installations)
+
 * [Usage](#Usage)
+
 * [Tools](#Tools)
+
 * [Contributing](#Contributing)
+
 * [Profile](#Profile)
+
 * [License](#License)
+
 
 
 ## :euro: Description:
