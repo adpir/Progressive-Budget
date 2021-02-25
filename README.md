@@ -16,9 +16,9 @@
 
 ### :bar_chart: Table of Contents 
 
-- [Description :euro:](#Description-)
+* [Description](#Description)
 
-- [Visuals](#Visuals)
+* [Visuals](#Visuals)
 
 * [Installation](#Installations)
 
@@ -34,7 +34,8 @@
 
 
 
-## :euro: Description:
+ ## Description:
+ ## :euro:
 ```
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 The user will be able to add expenses and  deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
@@ -51,8 +52,8 @@ The user will be able to add expenses and  deposits to their budget with or with
 
 >Offline entries should be added to tracker.
 
-### :camera: Visuals:
-
+###  Visuals:
+## :camera:
 ![image](./public/picture.png) <br>
 ![Giphy](./public/gif-min.gif)
 
