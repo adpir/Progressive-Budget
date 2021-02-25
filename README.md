@@ -14,33 +14,12 @@
 ![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg) 
 
 
-### :bar_chart: Table of Contents 
-
-* [Description](#Description)
-
-* [Visuals](#Visuals)
-
-* [Installation](#Installations)
-
-* [Usage](#Usage)
-
-* [Tools](#Tools)
-
-* [Contributing](#Contributing)
-
-* [Profile](#Profile)
-
-* [License](#License)
-
-
-
- ## Description:
+ ## :euro: Description:
 
 ``` 
  Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 The user will be able to add expenses and  deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 ```
- ## :euro:
 
 **Offline Functionality:**
 
@@ -53,7 +32,7 @@ The user will be able to add expenses and  deposits to their budget with or with
 
 >Offline entries should be added to tracker.
 
-###  Visuals: 
+### :camera:  Visuals: 
 
 ![image](./public/picture.png) <br>
 ![Giphy](./public/gif-min.gif)
@@ -73,9 +52,9 @@ To deploy an application with a MongoDB database to `Heroku`, you'll need to set
 `node server.js`
 
 
-###  Tools
+### :floppy_disk: Tools
 
-### :floppy_disk:|  ``Technologies``  |  
+``Technologies`` |  
 ---------------- | -------------------| 
 MongoDB Compas   | HTML               |
 MongoDB Atlas    | CSS                |
@@ -87,25 +66,20 @@ NPM              | Morgan NPM         |
 JSON             | Visual Studio Code |
       
 
-### Contributing:
+### :wave: Contributing:
 
-## :wave: 
-Pull requests are welcome. For major changes,
-<br>
+Pull requests are welcome. For major changes,<br>
 please open an issue first to discuss what you would like to change.<br>
 Please make sure to update tests as appropriate.
 
 
-## Profile:
+## :octocat: Profile:
 
-
-### :octocat: 
 [GitHub](https://github.com/adpir/Progressive-Budget)<br>
 
 [Heroku](https://stark-waters-65434.herokuapp.com/)
 
 
-### License
+### :copyright: License
 
-## :copyright: 
-[MIT](https://github.com/adpir/Progressive-Budget/blob/main/LICENSE) All rights reserved.
+[MIT](https://github.com/adpir/Progressive-Budget/blob/main/LICENSE) All rights reserved :heart:
