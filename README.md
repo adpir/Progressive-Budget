@@ -14,7 +14,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg) 
 
 
-### :bar_chart: Table of Contents 
+### :bar_chart: Table of Contents: 
 
 * [Description](#Description)
 
@@ -34,14 +34,14 @@
 
 
 
- ## Description:
+ ### Description:
 
 ``` 
- :euro: Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+ Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
  The user will be able to add expenses and  deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 ```
 
-**Offline Functionality:**
+ **Offline Functionality:**
 
 > Enter deposits offline 
 
@@ -51,13 +51,13 @@
 
 >Offline entries should be added to tracker.
 
-###  Visuals: 
+### Visuals:
 
-:camera: ![image](./public/picture.png) <br>
-:camera: ![Giphy](./public/gif-min.gif)
+ ![image](./public/picture.png) <br>
+ ![Giphy](./public/gif-min.gif)
 
 
-###  Installation:
+### Installation:
 
 :computer: To deploy an application with a MongoDB database to `Heroku`, you'll need to set up a `MongoDB Atlas` account and connect a database from there to your application. Be sure to use the following guides for support:
 
@@ -66,14 +66,14 @@
 - Deploy with Heroku and MongoDB Atlas
 
 
-###  Usage:
+### Usage:
 
 :exclamation: `node server.js`
 
 
-###  Tools
+### Tools:
 
-:floppy_disk:    |  Technologies      | 
+|  Technologies  | :floppy_disk:      |
 ---------------- | -------------------| 
 MongoDB Compas   | HTML               |
 MongoDB Atlas    | CSS                |
@@ -88,17 +88,17 @@ JSON             | Visual Studio Code |
 ### Contributing:
 
 :wave: Pull requests are welcome. For major changes,<br>
-please open an issue first to discuss what you would like to change.<br>
-Please make sure to update tests as appropriate.
+       Please open an issue first to discuss what you would like to change.<br>
+       Please make sure to update tests as appropriate.
 
 
-## Profile:
+### Profile:
 
 :octocat: [GitHub](https://github.com/adpir/Progressive-Budget)<br>
 
-:heroku: [Heroku](https://stark-waters-65434.herokuapp.com/)
+:purple_circle: [Heroku](https://stark-waters-65434.herokuapp.com/)
 
 
-### License
+### License:
 
-:copyright: [MIT](https://github.com/adpir/Progressive-Budget/blob/main/LICENSE) All rights reserved.
+:copyright: [MIT](https://github.com/adpir/Progressive-Budget/blob/main/LICENSE) All rights reserved. :heart:
