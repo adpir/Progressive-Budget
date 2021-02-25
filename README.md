@@ -35,11 +35,12 @@
 
 
  ## Description:
- ## :euro:
-```
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+
+``` 
+ Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 The user will be able to add expenses and  deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 ```
+ ## :euro:
 
 **Offline Functionality:**
 
@@ -52,8 +53,8 @@ The user will be able to add expenses and  deposits to their budget with or with
 
 >Offline entries should be added to tracker.
 
-###  Visuals:
-## :camera:
+###  Visuals: 
+
 ![image](./public/picture.png) <br>
 ![Giphy](./public/gif-min.gif)
 
@@ -72,9 +73,9 @@ To deploy an application with a MongoDB database to `Heroku`, you'll need to set
 `node server.js`
 
 
-### :floppy_disk: Tools
+###  Tools
 
-``Tecnologies``  |                    |
+### :floppy_disk:|  ``Technologies``  |  
 ---------------- | -------------------| 
 MongoDB Compas   | HTML               |
 MongoDB Atlas    | CSS                |
@@ -86,19 +87,25 @@ NPM              | Morgan NPM         |
 JSON             | Visual Studio Code |
       
 
-### :wave: Contributing:
+### Contributing:
 
-Pull requests are welcome. For major changes,<br>
+## :wave: 
+Pull requests are welcome. For major changes,
+<br>
 please open an issue first to discuss what you would like to change.<br>
 Please make sure to update tests as appropriate.
 
 
-### :octocat: Profile:
+## Profile:
 
+
+### :octocat: 
 [GitHub](https://github.com/adpir/Progressive-Budget)<br>
+
 [Heroku](https://stark-waters-65434.herokuapp.com/)
 
 
-### :copyright: License
+### License
 
+## :copyright: 
 [MIT](https://github.com/adpir/Progressive-Budget/blob/main/LICENSE) All rights reserved.
