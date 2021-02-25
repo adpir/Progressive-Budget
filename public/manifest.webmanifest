@@ -17,6 +17,16 @@
     "theme_color": "#317EFB",
     "background_color": "#ffffff",
     "start_url": "/",
-    "display": "standalone"
+    "display": "standalone",
+   
+
+  "screenshots": [
+    {
+      "src": "./money2.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    }
+    
+  ]
   }
   
