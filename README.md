@@ -14,18 +14,21 @@
 ![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg)
 
 ## :euro: Description:
+```
+Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+The user will be able to add expenses and  deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+```
 
-Add functionality to our existing ``Budget Tracker`` application to allow for offline access and functionality.
-The user will be able to ``add expenses`` and  ``deposits`` to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-Offline Functionality:
+**Offline Functionality:**
 
-* Enter deposits offline
 
-* Enter expenses offline
+> Enter deposits offline 
 
-* When brought back online:
+> Enter expenses offline
 
-Offline entries should be added to tracker.
+> When brought back online:
+
+>Offline entries should be added to tracker.
 
 ### :camera: Visuals:
 
@@ -44,6 +47,19 @@ To deploy an application with a MongoDB database to `Heroku`, you'll need to set
 
 `node server.js`
 
+### :floppy_disk: Tools
+
+``Tecnologies``  |                    |
+---------------- | -------------------| 
+MongoDB Compas   | HTML               |
+MongoDB Atlas    | CSS                |
+Mongoose         | Javascript         |       
+Web-manifest     | Git Hub            |
+node.js          | Terminal           |
+Express          | Service-Worker     |
+NPM              | Morgan NPM         |
+JSON             | Visual Studio Code |
+      
 
 ### :wave: Contributing:
 
