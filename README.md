@@ -3,7 +3,7 @@
 
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Language](https://img.shields.io/badge/Languages-HTML,CSS,Jquery,Nodes-violet.svg)
+![Language](https://img.shields.io/badge/Languages-HTML,CSS,Javascript,Nodes-violet.svg)
 ![Command-line](https://img.shields.io/badge/Command-line-blueviolet.svg)
 ![Express](https://img.shields.io/badge/Express-turquoise.svg)
 ![npm](https://img.shields.io/badge/npm-red.svg)
@@ -12,7 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-yellow.svg)
 ![Heroku](https://img.shields.io/badge/Heroku-orange.svg)
 ![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg) 
-
 
 ### :bar_chart: Table of Contents: 
 
