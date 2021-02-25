@@ -47,14 +47,14 @@ To deploy an application with a MongoDB database to `Heroku`, you'll need to set
 - Deploy with Heroku and MongoDB Atlas
 
 
-### :exclamation: Usage:
+###  Usage: 
 
-`node server.js`
+:exclamation: `node server.js`
 
 
 ### :floppy_disk: Tools
 
-``Technologies`` |  
+Technologies         Use
 ---------------- | -------------------| 
 MongoDB Compas   | HTML               |
 MongoDB Atlas    | CSS                |
