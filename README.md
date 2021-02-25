@@ -11,7 +11,20 @@
 ![node](https://img.shields.io/badge/node-green.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-yellow.svg)
 ![Heroku](https://img.shields.io/badge/Heroku-orange.svg)
-![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg)
+![VisualStudioCode](https://img.shields.io/badge/VSC-darkblue.svg) 
+
+
+### :bar_chart: Table of Contents 
+
+* [Description](#Description)
+* [Visuals](#Visuals)
+* [Installation](#Installetions)
+* [Usage](#Usage)
+* [Tools](#Tools)
+* [Contributing](#Contributing)
+* [Profile](#Profile)
+* [License](#License)
+
 
 ## :euro: Description:
 ```
@@ -35,6 +48,7 @@ The user will be able to add expenses and  deposits to their budget with or with
 ![image](./public/picture.png) <br>
 ![Giphy](./public/gif-min.gif)
 
+
 ### :computer: Installation:
 
 To deploy an application with a MongoDB database to `Heroku`, you'll need to set up a `MongoDB Atlas` account and connect a database from there to your application. Be sure to use the following guides for support:
@@ -43,9 +57,11 @@ To deploy an application with a MongoDB database to `Heroku`, you'll need to set
 
 - Deploy with Heroku and MongoDB Atlas
 
+
 ### :exclamation: Usage:
 
 `node server.js`
+
 
 ### :floppy_disk: Tools
 
@@ -67,10 +83,12 @@ Pull requests are welcome. For major changes,<br>
 please open an issue first to discuss what you would like to change.<br>
 Please make sure to update tests as appropriate.
 
+
 ### :octocat: Profile:
 
 [GitHub](https://github.com/adpir/Progressive-Budget)<br>
 [Heroku](https://stark-waters-65434.herokuapp.com/)
+
 
 ### :copyright: License
 
