@@ -14,17 +14,20 @@
       }
     
     ],
-    "theme_color": "#317EFB",
+     "theme_color": "#317EFB",
     "background_color": "#ffffff",
-    "start_url": "/",
-    "display": "standalone",
+    "display": "browser",
+      "start_url": "/"
+    
    
 
   "screenshots": [
     {
-      "src": "./money2.png",
+      "src": ".public/money2.png",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "1280×853",
+      
+
     }
     
   ]
