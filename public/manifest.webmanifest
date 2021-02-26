@@ -17,7 +17,7 @@
      "theme_color": "#317EFB",
     "background_color": "#ffffff",
     "display": "browser",
-      "start_url": "/"
+      "start_url": "/",
     
    
 
@@ -25,7 +25,7 @@
     {
       "src": ".public/money2.png",
       "type": "image/png",
-      "sizes": "1280×853",
+      "sizes": "1280×853"
       
 
     }
