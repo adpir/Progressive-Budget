@@ -1,77 +1,70 @@
 body {
-    font-size: 120%;
-    font-family: Arial;
-    background-image: url("./money2.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  button, input {
-    font-size: 100%;
-    font-family: Arial;
+  font-size: 120%;
+  font-family: Arial;
+  background-image: url("./money2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
-  }
-  button {
-    background-color:rgba(226, 165, 23, 0.895)
+button,
+input {
+  font-size: 100%;
+  font-family: Arial;
+}
+button {
+  background-color: rgba(226, 165, 23, 0.895);
+}
+table {
+  width: 100%;
+  background-color: rgba(42, 117, 178, 0.395);
+}
 
-  }
-  table {
-    width: 100%;
-background-color: rgba(42, 117, 178, 0.395); 
+td,
+th {
+  border: 5px solid #001738;
+  text-align: left;
+  padding: 8px;
+}
 
-   
-  }
-  
-  td, th {
-    border: 5px solid #001738; 
-    text-align: left;
-    padding: 8px;
+tr:nth-child(even) {
+  background-color: rgba(42, 117, 178, 0.395);
+}
+th {
+  background-color: rgba(42, 117, 178, 0.395);
+}
 
-  
-  }
-  
-  tr:nth-child(even) {
-    background-color: rgba(42, 117, 178, 0.395);
-  }
-  th {
-    background-color: rgba(42, 117, 178, 0.395);
+.error {
+  color: grey;
+}
 
-  }
-  
-  .error {
-    color: grey;
-  }
-  
-  .wrapper {
-    margin: 0 auto;
-    max-width: 825px;
-    text-align: center;
-   
-  }
-  
-  .total {
-    font-size: 150%;
-    text-decoration: underline;
-    font-family: 'Prata', serif;
-            color:rgba(226, 165, 23, 0.895)
-  }
-  
-  .form {
-    margin-top: 25px;
-    width: 100%;
-  }
-  
-  .transactions {
-    text-align: left;
-    max-height: 300px;
-    overflow: auto;
-    width: 90%;
-    margin: 0 auto;
-    color: rgb(20, 33, 61);
-    font-weight: bold;
-    
-  }
-  canvas {
+.wrapper {
+  margin: 0 auto;
+  max-width: 825px;
+  text-align: center;
+}
+
+.total {
+  font-size: 150%;
+  text-decoration: underline;
+  font-family: "Prata", serif;
+  color: rgba(226, 165, 23, 0.895);
+}
+
+.form {
+  margin-top: 25px;
+  width: 100%;
+}
+
+.transactions {
+  text-align: left;
+  max-height: 300px;
+  overflow: auto;
+  width: 90%;
+  margin: 0 auto;
+  color: rgb(20, 33, 61);
+  font-weight: bold;
+}
+canvas {
   opacity: 0.9;
-  background-color:rgba(195, 152, 51, 0.909);
-  }
+  background-color: rgba(195, 152, 51, 0.909);
+}

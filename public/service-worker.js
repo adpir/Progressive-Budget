@@ -9,11 +9,8 @@ const FILES_TO_CACHE = [
   "/db.js",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
-  "/money2.png",
-  "/picture.png",
-  "/gif-min-gif",
-  "/tracker-2.png"
- 
+
+
 ];
 
 
@@ -29,7 +26,7 @@ self.addEventListener("install", function (evt) {
 });
 
 // activate
-self.addEventListener("activate", function(evt) {
+self.addEventListener("activate", function (evt) {
   evt.waitUntil(
     caches.keys().then(keyList => {
       return Promise.all(
@@ -47,7 +44,7 @@ self.addEventListener("activate", function(evt) {
 });
 
 // fetch
-self.addEventListener("fetch", function(evt) {
+self.addEventListener("fetch", function (evt) {
   if (evt.request.url.includes("/api/transaction")) {
     evt.respondWith(
       caches.open(DATA_CACHE_NAME).then(cache => {
